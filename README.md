@@ -2,7 +2,7 @@
 
 ## Experience :Tech/Data/Finance:
 
-- **Sunstate Bank** – CRedit Analyst Intern :Credit:
+- **Sunstate Bank** – Credit Analyst Intern :Credit:
 - **Miami Risk Lab** – Machine Learning Specialist :Data:
 - **Amazon Web Services** – AWS cloud practitioner cert :Cloud:
 
