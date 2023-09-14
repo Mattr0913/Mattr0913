@@ -1,16 +1,21 @@
-### Hi there 👋
+# Matthew Ruiz - Financial-Economic Specialist :briefcase:
 
-<!--
-**Mattr0913/Mattr0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience :Tech/Data/Finance:
 
-Here are some ideas to get you started:
+- **Sunstate Bank** – CRedit Analyst Intern :Credit:
+- **Miami Risk Lab** – Machine Learning Specialist :Data:
+- **Amazon Web Services** – AWS cloud practitioner cert :Cloud:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact :tada:
+
+I like to learn, network, and try new things
+
+## Projects :rocket:
+
+- [x] [Fake News Detector](https://github.com) - Collaborated on ML project using logistic regression to detect fake news. Achieved 96.8% accuracy. Tech: Python, TF-IDF.
+- [x] [Inventory Management App](https://github.com) - Developed a Node.js-based Inventory Management App during Capital One Tech Mini-Mester. Tech: Node, NPM, lowdb, crypto.
+- [ ] [Upcoming Project](https://github.com) - Details to be added.
+
+## Connect with Me :handshake:
+
+Here is my [LinkedIn](https://www.linkedin.com/in/matthewruiz0913) if you want to connect :smiley:
